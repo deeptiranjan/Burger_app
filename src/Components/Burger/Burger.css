@@ -1,0 +1,6 @@
+.burger{
+    text-align: center;
+    width:100%;
+    height:300px;
+    overflow-x: auto;
+}
